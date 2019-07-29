@@ -1,0 +1,62 @@
+/*
+Creator: Karl Marx
+Date created: July 12, 2019
+Date last modified: July 12, 2019
+*/
+
+body {
+    background-color: #AAADC4;
+    font-family: verdana, helvetica, sans-serif;
+    color: #D6EEFF;
+    max-width:  1200px;
+    margin: 0 auto;
+}
+header, footer {
+    background-color: #6A7062;
+    color: #AAADC4;
+    height: 100px;
+    text-align: center;
+    padding: 30px 10px 20px 10px;
+}
+h1 {
+    font-size: 2.5em;
+}
+nav {
+    border-top: 3px dashed #6A7062;
+   border-bottom: 3px dashed #6A7062;
+    margin-top: 4px;
+}
+
+article {
+    margin-bottom: 16px;
+}
+.clear-float {
+            clear: both;
+}
+
+nav a {
+    background-color: #D6EEFF;
+    color: #AAADC4;
+    padding: 8px;
+    border: thin solid #3E442B;
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin: 20px;
+    width: 100px;
+    float: left;
+}
+
+nav a:visited{
+    color: #8D909B;
+}
+
+nav a:hover {
+    background-color: #AAADC4;
+    color: #D6EEFF;
+}
+
+nav a:active {
+    font-weight: bold;
+}
+

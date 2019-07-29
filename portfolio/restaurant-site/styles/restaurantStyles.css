@@ -1,0 +1,16 @@
+a{ color: #D1F5BE; 
+    
+}
+
+a:active{text-decoration: none;}
+
+a:visited{
+    color:#9db17c
+    
+}
+a:hover {font-weight: bold
+    
+}
+
+body {background-color: #82735C; color: #D1F5BE; font-family: Verdana, sans-serif}
+
